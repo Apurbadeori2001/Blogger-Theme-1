@@ -1,0 +1,6 @@
+{
+  "name": "Blogger Headless Theme Generator",
+  "description": "Generates a fully functional, modern headless Blogger XML theme using Tailwind CSS and Vanilla JS for dynamic API fetching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
